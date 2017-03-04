@@ -1,9 +1,11 @@
 [user]
-  name = GITHUBFULLNAME
-  email = GITHUBEMAIL
+  name = Christian Vermeulen
+  email = info@christianvermeulen.net
 [github]
   # https://github.com/blog/180-local-github-config
-  user = GITHUBUSER
+  user = christianvermeulen
+  token = MOVEALONG
+
 [color]
 # ui = true is a superset of all the more specific color options
 #  as documented at http://book.git-scm.com/5_customizing_git.html

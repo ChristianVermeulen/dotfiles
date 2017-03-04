@@ -45,6 +45,6 @@ inquirer.prompt([{
   installPackages('brew')
   installPackages('cask')
   installPackages('npm')
-  installPackages('gem')
+  //installPackages('gem')
 
 })

@@ -19,6 +19,7 @@ module.exports = {
     'gnu-sed --with-default-names',
     // better, more recent grep
     'homebrew/dupes/grep',
+    'hub',
     // https://github.com/jkbrzt/httpie
     'httpie',
     // jq is a sort of JSON grep
@@ -42,31 +43,30 @@ module.exports = {
     'wget --enable-iri'
   ],
   cask: [
-    //'adium',
-    //'amazon-cloud-drive',
-    //'atom',
-    // 'box-sync',
-    //'comicbooklover',
-    //'diffmerge',
-    //'dropbox',
-    //'evernote',
+    'alfred',
+    'diffmerge',
+    'dropbox',
+    'franz',
+    'gif-for-mac',
+    'google-chrome',
+    'google-drive',
     'gpgtools',
-    //'ireadfast',
     'iterm2',
+    'lastpass',
     'little-snitch',
     'micro-snitch',
-    //'macvim',
-    'sizeup',
-    //'sketchup',
+    'phpstorm',
     'slack',
+    'spectacle',
+    'spotify',
+    'sublime-text',
+    'tower',
     'the-unarchiver',
-    //'torbrowser',
-    //'transmission',
-    //'vlc',
+    'vlc',
     'xquartz'
   ],
   gem: [
-    'git-up'
+    //'git-up'
   ],
   npm: [
     'antic',

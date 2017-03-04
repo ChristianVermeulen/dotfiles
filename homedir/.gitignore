@@ -28,6 +28,8 @@ id_rsa
 # Tooling #
 ###########
 .vagrant/
+.idea/
+.unision*
 
 #######
 # VIM #

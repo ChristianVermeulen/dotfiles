@@ -3,6 +3,9 @@
 #################################
 # Simple Program Name Shortening
 alias g=git
+alias git=hub
+
+alias sf="php bin/console"
 
 #############################
 # Utilities

@@ -10,7 +10,7 @@ export MYCODE=~/Documents/Code
 export MYSCRATCH=~/Documents/Temp/Scratch
 export MYDOWNLOADS=~/Downloads
 export MYDOCUMENTS=~/Documents
-export MYDEVAPPS=/Applications/Dev
+export MYDEVAPPS=~/Development
 
 #########################################################################
 # Tool paths

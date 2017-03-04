@@ -121,3 +121,7 @@ function tre(){
 function weather() {
   curl wttr.in/$1
 }
+
+function issue() {
+  open https://github.com/treehouselabs/huurwoningen/issues/$1
+}
