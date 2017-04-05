@@ -188,7 +188,7 @@
   clean = expand -t 4
 
 [push]
-  default = matching
+	default = simple
 	followTags = true
 
 [filter "media"]
@@ -200,3 +200,7 @@
   clean = git-lfs clean %f
   smudge = git-lfs smudge %f
   required = true
+[commit]
+	gpgsign = true
+[gpg]
+	program = /usr/local/bin/gpg

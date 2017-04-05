@@ -29,7 +29,7 @@ id_rsa
 ###########
 .vagrant/
 .idea/
-.unision*
+.unison*
 
 #######
 # VIM #
