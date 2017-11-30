@@ -1,6 +1,6 @@
 # Path to your oh-my-zsh configuration.
 export ZSH=$HOME/.dotfiles/oh-my-zsh
-export ZSH_THEME="bullet-train/bullet-train"
+export ZSH_THEME="../../homedir/bullet-train"
 
 BULLETTRAIN_PROMPT_ORDER=(
   context
