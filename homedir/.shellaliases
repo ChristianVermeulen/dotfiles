@@ -7,6 +7,7 @@ alias git=hub
 
 alias sf="php bin/console"
 alias ls="ls -als"
+alias dc="docker-compose"
 
 #############################
 # Utilities
