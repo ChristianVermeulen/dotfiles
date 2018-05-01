@@ -27,6 +27,8 @@ export MYDEVAPPS=~/Development
 #########################################################################
 export FONTCONFIG_PATH=/opt/X11/lib/X11/fontconfig
 export NVM_DIR=~/.nvm
-export UNISON=~/.unison
+#export UNISON=~/.unison
+export VISUAL=atom
+export EDITOR="$VISUAL"
 
 export TOGGLE_REDIS_DSN=127.0.0.1:6379
